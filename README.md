@@ -1,0 +1,1 @@
+XSS (Cross-Site Scripting) vulnerability scanner. The tool will enable users to test websites or web applications for potentialThis is XSS vulnerabilities by injecting predefined malicious payloads and analyzing the responses for any reflected scripts. The system uses a graphical interface built with Tkinter, where users can input a URL or HTML source
